@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "KANGO-XMD",
+    "bot-name": "SNAKE-TECH",
     "description": "Kango XMD v2 made with love from creator in Ghana (Hector Manuel)",
     "logo": "https://files.catbox.moe/vikf6c.jpg",
     "keywords": ["bot"],
@@ -9,7 +9,7 @@
   
 "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with KANGO~, or get session id from here, https://adiza-session.onrender.com",
+        "description": "KANGO~94Q00ZpI#EPvDqxirrkMyv5JBr3VN_nh7LOL4llqdEd3rox_b2KU",
         "value":"",
         "required": true
         
